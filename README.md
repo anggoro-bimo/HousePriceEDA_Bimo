@@ -2,7 +2,7 @@
 
 Bismilaahirahmaanirrahiim...
 
-Hello there!
+Hello there! :wave:
 
 Thank for visiting this page, this is my first data analytics portfolio.
 I did a simple python code-writing for exploratory data analysis on the House Price dataset, file train.csv located in "The Datasets" folder in this repository.
@@ -10,7 +10,7 @@ I did a simple python code-writing for exploratory data analysis on the House Pr
 This work is inspired by my final assignment in the Data Wrangling course at [Pacmann Academy](https://pacmann.io/), I got a 100/100 mark on this assignment.
 I enjoyed my time while I was working on the assignment, even though I also did the additional problem, so I revisited it to improve the problem comprehension, polish the code-writing, and rewrite it in English.
 
-This repository consists of three folders, the original work is labeled as r.-IdfN-wrangling-8, and the latest work is HousePriceEDA_Bimo, so I can document my progress in working on the same dataset with different problem approach.
+This repository consists of three folders :file_folder:, the original work is labeled as r.-IdfN-wrangling-8, and **the latest work is HousePriceEDA_Bimo**, so I can document my progress in working on the same dataset with different problem approach.
 I practice a lot of the course material in working on this notebook, especially from the Data Wrangling and Data Visualization courses.
 
 The most notable progress in my code is how I rewrite the code more efficiently so it can be written in fewer lines of code.
