@@ -44,6 +44,6 @@ I polish it to this lines of code
 I am not implemented the data transformation (i.e. scaling or normalization) in my latest work as it was assigned in the original one, because I do not sense any urgency to do the transformation while cleansing the dataset.
 
 I highly appreciate your questions, suggestions, and ideas regarding this work.
-Let's discuss it in this link -> [My LinkedIn post](https://pacmann.io/)
+Let's discuss it in this link -> [My LinkedIn post](https://www.linkedin.com/posts/anggoro-bimo_github-anggoro-bimohousepriceedabimo-activity-6956544417474256896-uzDG?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 Thank you very much for your kind attention.
